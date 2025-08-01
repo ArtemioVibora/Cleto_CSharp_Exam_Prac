@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cowp6jp6gmk=",
+  "success": true,
+  "projectFilePath": "/home/nina/RiderProjects/LeStudent/LeStudent/LeStudent.csproj",
+  "expectedPackageFiles": [
+    "/home/nina/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
